@@ -6,7 +6,7 @@ import './App.css'
 function App(): any {
   const [count, setCount] = useState(0)
 
-    console.log('test code 1')
+    console.log('test code 1 sku')
 
   return (
     <>
