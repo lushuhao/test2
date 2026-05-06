@@ -6,7 +6,7 @@ import './App.css'
 function App(): any {
   const [count, setCount] = useState(0)
 
-    console.log('test code 1')
+    console.log('test code 1 sku-selector')
 
   return (
     <>
@@ -18,7 +18,7 @@ function App(): any {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-      <h1>Vite + React console.log('test code 2')</h1>
+      <h1>Vite + React console.log('test code 2 sku-selector')</h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
